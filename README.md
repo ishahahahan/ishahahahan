@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishahahahan" alt="ishahahahan" /></a> </p>
 
-- 🔭 I’m currently working on **app development projects**
+- 🔭 I’m currently working on **app development projects using Flutter**
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Java, C, C++**
 
 - 📫 How to reach me **ishand1005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ishan-das-69a163258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-das-69a163258" height="30" width="40" /></a>
 <a href="https://instagram.com/ishahahahan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishahahahan_" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ishandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ishandas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
