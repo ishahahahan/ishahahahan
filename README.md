@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **app development projects**
 
-- 🌱 I’m currently learning **Flutter, Java, Assembly**
+- 🌱 I’m currently learning **Flutter, Java**
 
 - 📫 How to reach me **ishand1005@gmail.com**
 
