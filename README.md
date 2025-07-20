@@ -1,26 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ishan Das</h1>
-<h3 align="center">An app developer and design enthusisat</h3>
+<img src="https://github.com/ishahahahan.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahahahan&label=Profile%20views&color=0e75b6&style=flat" alt="ishahahahan" /> </p>
+# Hi there 👋 I'm Ishan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishahahahan" alt="ishahahahan" /></a> </p>
+App Developer
 
-- 🔭 I’m currently working on **app development projects using Flutter**
+Building software with passion and purpose.
 
-- 🌱 I’m currently learning **Flutter, Java, C, C++**
+Love working on real-life projects and learning new technologies
 
-- 📫 How to reach me **ishand1005@gmail.com**
+Interested in Open Source projects and contributions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishan-das-69a163258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-das-69a163258" height="30" width="40" /></a>
-<a href="https://instagram.com/ishahahahan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishahahahan_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ishandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ishandas" height="30" width="40" /></a>
-</p>
+## 🔭 Featured Projects
+- [NutriCare](https://github.com/ishahahahan/lorem_ipsum) - AI Nutrition Tracker
+- [Music Match](https://github.com/ishahahahan/music-match) - Matching users on the basis of their music listening history and patterns
+- [Hybrid Community Detection](https://github.com/ishahahahan/CSD363-SIN) - Detect large communities using Louvain, Girvan-Newman, and Infomap
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/johndoe)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ishandas1005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ishand1005@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishahahahan&show_icons=true&locale=en&layout=compact" alt="ishahahahan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishahahahan&show_icons=true&locale=en" alt="ishahahahan" /></p>
+## 💻 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-eab308?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-eab308?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-eab308?style=for-the-badge&logo=C&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-eab308?style=for-the-badge&logo=SQL&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-eab308?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-22c55e?style=for-the-badge&logo=FastAPI&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-22c55e?style=for-the-badge&logo=AWS&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-22c55e?style=for-the-badge&logo=React%20Native&logoColor=white)
